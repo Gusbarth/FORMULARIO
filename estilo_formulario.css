@@ -1,0 +1,26 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.main-container {
+    background-color: lightcoral;
+    padding: 20px;
+    border: 1px black solid;
+    margin-top: 80px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.form-grupo {
+    display: grid;
+    margin-bottom: 20px;
+}
+
+textarea {
+    height: 100px;
+    width: 470px;
+}
